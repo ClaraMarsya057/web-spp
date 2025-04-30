@@ -16,5 +16,3 @@ Fitur Fitur
 
 * Login     : admin1
 * Password  : admin
-"# web-spp-clara" 
-"# web-spp-clara" 
